@@ -1,0 +1,27 @@
+- descargar google autenticator para seguridad (celular)
+
+- dominios: namecheap
+- domainr: para checar los dominios
+- hosting: namehero (Usar plataforma wordpress) Dentro del hosting activar el SSL
+- DNS es el número de ruta del dominio
+
+- Después de comprar el dominio y el host, al entrar al link de la pagina, hay una ruta que es "/wp-admin"
+
+- WORDPRESS: Es una herramienta CMS (SQL como base de datos y PHP como backend)
+
+- HTML es lo que le indica al buscador que es o en donde va cada cosa.
+- CSS se ocupa para todo lo visual
+- JS es para el funcionamiento	
+
+- Crocoblock es para descargar los plugins
+
+
+
+
+
+
+DENTRO DE WORDPRESS 5.7/5.8:
+- Paginas: son las "ventanas/pestañas"
+- Plugins: Gutenberg es el "Drag N Drop" de Wordpress
+- Usuarios: es quién puede administar la aplicaciones
+- Apariencia -> Temas -> Hay plantillas para que puedas copiar el funcionamiento

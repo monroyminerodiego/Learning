@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<!-- Dentro del head son las cosas que no se van a ver en la pag, pero que necesita para fucionar, ejemplo los archivos css y js -->
+<head>
+	<!-- Title es para poner el titulo en la pestaña -->
+	<title>Cotizador SUBS</title>
+	<!-- El link es donde se pone el archivo de css para personalizar la pag. Si no se pone rel="stylesheet" no cargaran -->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+	<center><h1>Cotizador de SIM CARD Corporativo SA de CV</h1></center>
+	
+	<main>
+		<h2>Agregar Marca</h2> <hr>
+        <!-- Para declarar un formulario es con la etiqueta form
+        - action es para definir que acción se va a hacer cuando se guarde el formulario -->
+        <form action="">
+            <!-- Campo para ingresar un input
+            - required es para indicar que un campo es obligatorio -->
+            <input type="text" placeholder="Ingresa el nombre de la marca" required>
+            <br>
+            <br>
+            <!-- Botones para elegir sólo una opción 
+            - name es para definir un grupo y que en este tipo de datos sólo se pueda elegir una opción-->
+            <label><input type="radio" name="Activacion" value="Equipo"> Equipo </label>
+            <label><input type="radio" name="Activacion" value="Plan"  > Plan </label>
+            <br>
+            <br>
+            <!-- Botones de verificación 
+            - checked es para marcar una casilla por defecto
+            - value es para indicar que ese valor del formulario es-->
+            <label><input type="checkbox" name="informacion" checked value="Foto"> Foto <br></label>
+            <label><input type="checkbox" name="informacion"         value="Equipos"> Equipos <br></label>
+            <label><input type="checkbox" name="informacion"         value="Activa"> Activa</label>
+            <br>
+            <br>
+            <!-- Boton de enviar -->
+            <br>
+            <button type="submit"><a href="#">          Enviar </a></button>
+            <button type="submit"><a href="index.html"> Atrás  </a></button>
+        </form>
+	</main>
+
+</body>
+</html>

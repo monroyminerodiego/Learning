@@ -1,0 +1,9 @@
+body {
+	background-image: linear-gradient(rgba(32, 33, 36, 0.6), rgba(32, 33, 36, 0.6)), url("https://www.appsheet.com/image/getremoteimageurl?url=https%3A%2F%2Fwww.appsheet.com%2Fcontent%2Fimg%2Fheroimg%2Fbg-hatch.png&width=1920");
+	font-family: arial, sans-serif;
+	display: block;
+}
+
+.container {
+	background-color: white;
+}
