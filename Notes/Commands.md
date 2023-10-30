@@ -6,6 +6,8 @@
 - **Ctrl + S**: Save File.
 - **Ctrl + O**: Open File.
 - **Ctrl + W**: Close File.
+- **Ctrl + Page Up**: Changes to next open tab
+- **Ctrl + Page Down**: Changes to previous opened tab
 
 **Two hotkeys**
 - **Ctrl + K --> Ctrl + O**: Open Folder.
