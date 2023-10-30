@@ -23,7 +23,7 @@
 - **git clone [link]:** Downloads the repository to the folder.
 - **git update-index --assume-unchanged [rel_path_file]:** Updates the index of the file in order to ignore the changes made in the file.
 - **git update-index --no-assume-unchanged [rel_path_file]:** Updates the index of the file in order to not ignore the changes made in the file.
-<!-- - **git rm [rel_path_file]:** Removes a file from the local directory and from the repository. -->
+- **git rm [rel_path_file]:** Removes a file from the local directory and from the repository.
 
 ## CMD (Command Prompt)
 - **cd**: Changes from Directory
