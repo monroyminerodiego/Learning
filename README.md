@@ -9,6 +9,7 @@ There are multiple purposes for this repository, which include:
 ## Colaborators
 ### (All) Room Data B 2209
 - (DM) Diego Monroy Minero
+- (AB) Ariel Joel Buenfil Gongora
 
 ## Change Log
 ### 2023-10-07
